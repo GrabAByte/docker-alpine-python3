@@ -1,4 +1,4 @@
-FROM grababyte/alpine-base:0.7.4
+FROM grababyte/alpine-base:0.7.5
 
 LABEL devops.grababyte.image.authors="GrabAByte"
 
